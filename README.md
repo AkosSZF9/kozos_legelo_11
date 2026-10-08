@@ -19,7 +19,7 @@ JavaScript és külső könyvtár nincs.
 ### Oldalak
 1. index.html – 9 gazda, 9 tehén, napi 10 liter/tehén.
 2. dontes.html – az egyik gazda második tehenet vesz; 10 tehén, napi 9 liter/tehén.
-3. kovetkezmeny.html – mindegyik gazda második tehenet vesz; 18 tehén, napi 1 liter/tehén.
+3. – mindegyik gazda második tehenet vesz; 18 tehén, napi 1 liter/tehén.
 4. reflexio.html – rádiógomb, jelölőnégyzet, szövegmező és beépített HTML-ellenőrzés.
 
 <img src="assets/tehenes_minta1.png" alt="minta">
